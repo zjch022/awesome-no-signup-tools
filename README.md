@@ -73,6 +73,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 
 ## Converters
 
+- [FileOnTap HEIC to PNG Converter](https://fileontap.com/heic-to-png/) - Converts HEIC images to PNG with no signup or upload; processing runs locally in the browser.
 - [TinyPNG](https://tinypng.com/) - Compresses PNG, JPEG, and WebP images, no signup required (free tier: up to 20 images per batch, 5MB each).
 - [CloudConvert](https://cloudconvert.com/) - Converts between 200+ document, image, audio, video, and archive formats, no signup required (free tier: 25 conversion minutes per day).
 - [PDF24 Tools](https://tools.pdf24.org/en/) - Merges, splits, compresses, and converts PDFs, no signup required (files are processed on PDF24's servers and deleted shortly after).
